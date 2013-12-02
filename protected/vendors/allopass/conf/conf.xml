@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <accounts>
+        <account email="">
+            <keys>
+                <api_key>56bc8f010ab579c9b67cc7b54a8edb96</api_key>
+                <private_key>4ad0f19c60bf0f175cee6fbfe88cbbef</private_key>
+            </keys>
+        </account>
+    </accounts>
+    <default_hash>sha1</default_hash>
+    <default_format>xml</default_format>
+    <network_timeout>30</network_timeout>
+    <network_protocol>http</network_protocol>
+    <network_port>80</network_port>
+    <host>api.allopass.com</host>
+</data>

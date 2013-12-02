@@ -1,0 +1,698 @@
+
+VALID (custom=) --------------------------------------------------------------------------------
+[10/07/2012 3:08 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:09:05 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=swrDT6SQnpknn2ky68dkw3q7EFruV6Caesno3dSHrmt34C7hCujlTHEKnZcN8Yopx5IiGzLNJAv6MRdL4I525bvNSQybuni9eEVodE8NZFzvOuY6t_1iqQL90t76Ny_mfOE4um%7cDCCXs6NOjFjMymH99jQ2SJVULuBgDvBeuVZNFGvQh8P1CVfkb4k91Z4PP7ktohRahTSGv0%7cNGIJ26KiXihb29gETr_X70Zbd8tIDaj2q_YTFRXOd-8ILmzxkPY5R5SLO-KPOv7CWwLbEm%7c1349572146; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: -1ILhdyICORs4hS4xTUr41S8iP0=23ZZhLG6_JZfK-kOByfY0Oyxgpoi_PpgQl4sV8Ae1msxKdHerknwdwe6RoROFtlF8a2lO6O1Zq-injJn; expires=Sat, 02-Oct-2032 01:09:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:09:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-synch; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:09:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349572145425398; path=/; expires=Tue, 30-Sep-42 01:09:05 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+SUCCESS
+mc_gross=5.00
+protection_eligibility=Ineligible
+address_status=unconfirmed
+payer_id=3QNUYJXQWQ2XS
+tax=0.00
+address_street=Av.+de+la+Pelouse%2C+87648672+Mayet
+payment_date=18%3A08%3A55+Oct+06%2C+2012+PDT
+payment_status=Completed
+terminal_id=
+charset=windows-1252
+address_zip=75002
+first_name=Antonin
+receipt_reference_number=
+mc_fee=0.42
+address_country_code=FR
+address_name=Antonin+Lenfant
+custom=1
+payer_status=verified
+business=seller_1349533331_biz%40gmail.com
+address_country=France
+address_city=Paris
+quantity=1
+payer_email=buyer_1349533290_per%40gmail.com
+txn_id=29E653748K359934A
+payment_type=instant
+last_name=Lenfant
+address_state=Alsace
+receiver_email=seller_1349533331_biz%40gmail.com
+store_id=
+payment_fee=
+receiver_id=PZ4V53QTVFCJA
+pos_transaction_type=
+txn_type=web_accept
+item_name=Account+funding
+num_offers=0
+mc_currency=EUR
+item_number=
+residence_country=FR
+handling_amount=0.00
+transaction_subject=1
+payment_gross=
+shipping=0.00
+
+--------------------------------------------------------------------------------
+r                        member/fund
+page                     3
+provider                 PayPal
+tx                       29E653748K359934A
+st                       Completed
+amt                      5.00
+cc                       EUR
+cm                       1
+item_number              
+
+
+
+VALID (custom=) --------------------------------------------------------------------------------
+[10/07/2012 3:30 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:30:46 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=DBfHJ8BEcnz-7WHmacDbGQEPn5YeLgVqh9pVCcCnJYPu6jMk7QRYBR5JWfHJBJRgG6Lq4WJuyNB64zusrwjHB14gIL2qZJjijQzogJmo_juF4E9dF-iP3gTOKE6qKmSeYxOzr0%7ckphUfih28Ddf0wBfSzBay0kPTTTo3GBAZZQrD8qaGR2eQwBQVyLUcxxt_uDb9LD0Ba9L70%7cyAf7PO2mcIoTtmCuUyPZcz9d4DeA-1LIgw0CsFHVrDg7QkWv8TB6t57ZfxRgfqO1eNCTcW%7c1349573447; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: -1ILhdyICORs4hS4xTUr41S8iP0=VnQjHRgTsJgJQ1ug81pES0sGhf3P5IbiKixS8apCq0Km3EXsfhoWBSVZLHGWgnLOrbtc2rkA8DJIT57Y; expires=Sat, 02-Oct-2032 01:30:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:30:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-synch; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:30:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573446283590; path=/; expires=Tue, 30-Sep-42 01:30:46 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+SUCCESS
+mc_gross=5.00
+protection_eligibility=Ineligible
+address_status=unconfirmed
+payer_id=3QNUYJXQWQ2XS
+tax=0.00
+address_street=Av.+de+la+Pelouse%2C+87648672+Mayet
+payment_date=18%3A30%3A36+Oct+06%2C+2012+PDT
+payment_status=Completed
+terminal_id=
+charset=windows-1252
+address_zip=75002
+first_name=Antonin
+receipt_reference_number=
+mc_fee=0.42
+address_country_code=FR
+address_name=Antonin+Lenfant
+custom=1
+payer_status=verified
+business=seller_1349533331_biz%40gmail.com
+address_country=France
+address_city=Paris
+quantity=1
+payer_email=buyer_1349533290_per%40gmail.com
+txn_id=34518176TB167615G
+payment_type=instant
+last_name=Lenfant
+address_state=Alsace
+receiver_email=seller_1349533331_biz%40gmail.com
+store_id=
+payment_fee=
+receiver_id=PZ4V53QTVFCJA
+pos_transaction_type=
+txn_type=web_accept
+item_name=Account+funding
+num_offers=0
+mc_currency=EUR
+item_number=
+residence_country=FR
+handling_amount=0.00
+transaction_subject=1
+payment_gross=
+shipping=0.00
+
+--------------------------------------------------------------------------------
+r                        member/fund
+page                     3
+provider                 PayPal
+tx                       34518176TB167615G
+st                       Completed
+amt                      5.00
+cc                       EUR
+cm                       1
+item_number              
+
+
+
+VALID (custom=) --------------------------------------------------------------------------------
+[10/07/2012 3:32 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:32:30 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=xYWl8Z9-1wiwV8Wx56dQxvWmHCRKbvWX8KQOrpcl9orPXYvsJvv8ZaWSZksYMRDQTrOr39df_06ISEMEbdkF-0amoPjuw2CrtM6T03TwL_q8RNL9ebec5aDXKEQAGE7RrnDlCG%7cZx0vtPehdoQKHZaFNMcjiwK9KbczeIrrqwNluRodrIvru7OgI3WzwlTKp6Df-L_kU6toU0%7ca1VCHuMychIeU_F04oGE6ntJN2Knqd_BXHK2YEwQuScXFx0IlIBTo3YAnOVGHxT8bnkwYW%7c1349573551; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: -1ILhdyICORs4hS4xTUr41S8iP0=-ViWyT_z64gYeDUIvcaZWtX8PBulGWTwExXqKJ3KFruYas6thEIMu-uPB_KN0Fn0QkH7rLJBQ7zeeOYV; expires=Sat, 02-Oct-2032 01:32:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:32:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-synch; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:32:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573550919676; path=/; expires=Tue, 30-Sep-42 01:32:30 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+SUCCESS
+mc_gross=5.00
+protection_eligibility=Ineligible
+address_status=unconfirmed
+payer_id=3QNUYJXQWQ2XS
+tax=0.00
+address_street=Av.+de+la+Pelouse%2C+87648672+Mayet
+payment_date=18%3A32%3A20+Oct+06%2C+2012+PDT
+payment_status=Completed
+terminal_id=
+charset=windows-1252
+address_zip=75002
+first_name=Antonin
+receipt_reference_number=
+mc_fee=0.42
+address_country_code=FR
+address_name=Antonin+Lenfant
+custom=1
+payer_status=verified
+business=seller_1349533331_biz%40gmail.com
+address_country=France
+address_city=Paris
+quantity=1
+payer_email=buyer_1349533290_per%40gmail.com
+txn_id=2F7375307L163040H
+payment_type=instant
+last_name=Lenfant
+address_state=Alsace
+receiver_email=seller_1349533331_biz%40gmail.com
+store_id=
+payment_fee=
+receiver_id=PZ4V53QTVFCJA
+pos_transaction_type=
+txn_type=web_accept
+item_name=Account+funding
+num_offers=0
+mc_currency=EUR
+item_number=
+residence_country=FR
+handling_amount=0.00
+transaction_subject=1
+payment_gross=
+shipping=0.00
+
+--------------------------------------------------------------------------------
+r                        member/fund
+page                     3
+provider                 PayPal
+tx                       2F7375307L163040H
+st                       Completed
+amt                      5.00
+cc                       EUR
+cm                       1
+item_number              
+
+
+
+VALID (custom=) --------------------------------------------------------------------------------
+[10/07/2012 3:32 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:32:52 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=Hw0ATmbTxF83dr9zVTqEG7WGN56BQzGCj9xqRoekLtJ7_Li6XRNhY3q3tjd67_q11LAQilPO5-9mfkp3IUYDo4vyT8yTTPlSruWhe-5tM0DWdsRXNt5LTxjTTG82V0hylSFSGW%7crx1BKt7D3iIpkPiMak-cJG96Ml8v6iUGP1afKJ2ffWCeac9LcXMbFWDvUvMEEK0b-qe860%7ccIe1i35SGVwHUAbPKNZAtGFyxUeO0RsI9jSIGCkn-qWn68_nMR_p-VKDmAIQp98VoD3qZm%7c1349573573; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: -1ILhdyICORs4hS4xTUr41S8iP0=gffBylEIE7hgtYgJaq-tRDTsL9m20Wx8O48ujIpP8YhIsf4djSkEuFRyoJbUVvwnZxa7xa58InbbMc74; expires=Sat, 02-Oct-2032 01:32:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:32:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-synch; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:32:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573572751616; path=/; expires=Tue, 30-Sep-42 01:32:52 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+SUCCESS
+mc_gross=5.00
+protection_eligibility=Ineligible
+address_status=unconfirmed
+payer_id=3QNUYJXQWQ2XS
+tax=0.00
+address_street=Av.+de+la+Pelouse%2C+87648672+Mayet
+payment_date=18%3A32%3A20+Oct+06%2C+2012+PDT
+payment_status=Completed
+terminal_id=
+charset=windows-1252
+address_zip=75002
+first_name=Antonin
+receipt_reference_number=
+mc_fee=0.42
+address_country_code=FR
+address_name=Antonin+Lenfant
+custom=1
+payer_status=verified
+business=seller_1349533331_biz%40gmail.com
+address_country=France
+address_city=Paris
+quantity=1
+payer_email=buyer_1349533290_per%40gmail.com
+txn_id=2F7375307L163040H
+payment_type=instant
+last_name=Lenfant
+address_state=Alsace
+receiver_email=seller_1349533331_biz%40gmail.com
+store_id=
+payment_fee=
+receiver_id=PZ4V53QTVFCJA
+pos_transaction_type=
+txn_type=web_accept
+item_name=Account+funding
+num_offers=0
+mc_currency=EUR
+item_number=
+residence_country=FR
+handling_amount=0.00
+transaction_subject=1
+payment_gross=
+shipping=0.00
+
+--------------------------------------------------------------------------------
+r                        member/fund
+page                     3
+provider                 PayPal
+tx                       2F7375307L163040H
+st                       Completed
+amt                      5.00
+cc                       EUR
+cm                       1
+item_number              
+
+
+
+VALID (custom=) --------------------------------------------------------------------------------
+[10/07/2012 3:33 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:33:14 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=cX7qxFatz-1eFa_gk09CCBwI86x63rNzsq1JZu-TTEIBnaBpitCbx_KyXv1yMsEXjO-KR9ezioWG6NIL-ewekJd5sWDfq-lpmYFSy7XqxXTxk8US0KOyPLyuOjcI4BH1BzG580%7cjOA1HxA2O2IS1Lyj2mg4gVVF_AasJGWdTEYZlCppJtjaZwc8L1BJ9_NX10rtU4BnvB3DB0%7c37RoM7xZakv2G030-uNF3wDvxZ8TSR3ERhyOblynlREuSQTGcm5ZTZM8SH7k3eN4esEV6W%7c1349573596; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: -1ILhdyICORs4hS4xTUr41S8iP0=im8q-vmfACQyU4uN363-bAPHmHGTbnnTuOQBkryNWJ-Um2OzYABQop3hfQD_5IpfyueUP2GKWcRyP-iZ; expires=Sat, 02-Oct-2032 01:33:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:33:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-synch; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:33:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573594967593; path=/; expires=Tue, 30-Sep-42 01:33:14 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+SUCCESS
+mc_gross=5.00
+protection_eligibility=Ineligible
+address_status=unconfirmed
+payer_id=3QNUYJXQWQ2XS
+tax=0.00
+address_street=Av.+de+la+Pelouse%2C+87648672+Mayet
+payment_date=18%3A32%3A20+Oct+06%2C+2012+PDT
+payment_status=Completed
+terminal_id=
+charset=windows-1252
+address_zip=75002
+first_name=Antonin
+receipt_reference_number=
+mc_fee=0.42
+address_country_code=FR
+address_name=Antonin+Lenfant
+custom=1
+payer_status=verified
+business=seller_1349533331_biz%40gmail.com
+address_country=France
+address_city=Paris
+quantity=1
+payer_email=buyer_1349533290_per%40gmail.com
+txn_id=2F7375307L163040H
+payment_type=instant
+last_name=Lenfant
+address_state=Alsace
+receiver_email=seller_1349533331_biz%40gmail.com
+store_id=
+payment_fee=
+receiver_id=PZ4V53QTVFCJA
+pos_transaction_type=
+txn_type=web_accept
+item_name=Account+funding
+num_offers=0
+mc_currency=EUR
+item_number=
+residence_country=FR
+handling_amount=0.00
+transaction_subject=1
+payment_gross=
+shipping=0.00
+
+--------------------------------------------------------------------------------
+r                        member/fund
+page                     3
+provider                 PayPal
+tx                       2F7375307L163040H
+st                       Completed
+amt                      5.00
+cc                       EUR
+cm                       1
+item_number              
+
+
+
+VALID (custom=) --------------------------------------------------------------------------------
+[10/07/2012 3:33 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:33:17 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=JxnGOg7x3KgD6Bp3gWslZHuHJz727IfAJfCLWvdmdP1jpNdpbgcHSNhT_37unfwh_BAi3HRbFXluWphf-Qp5OTqB2N8oAO1wrm5zEXhqmxOOZmvpVwtw5vg60eOojlsoiQtpo0%7c1dggyEggLJukFVzYLm_bRVVC14QH8ldlMqbvAZXabZtB_dYA5GXWWzo_7TqdFRS6KNdhC0%7cbzWCkX0CN2LdCcDkcaYUgISFG5RBFHFczZUXWfLyww9IpXTKeg3RGdoNFNsOAzp8udfoZm%7c1349573598; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: -1ILhdyICORs4hS4xTUr41S8iP0=pR__ukBNTiICo2vQHQRalW39SrSHRCb-tZF9FE4lmk6KH7aIMVlYEbIk1JMM8rrRaeSr7bWI5_GYtKdD; expires=Sat, 02-Oct-2032 01:33:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:33:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-synch; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:33:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573597380812; path=/; expires=Tue, 30-Sep-42 01:33:17 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+SUCCESS
+mc_gross=5.00
+protection_eligibility=Ineligible
+address_status=unconfirmed
+payer_id=3QNUYJXQWQ2XS
+tax=0.00
+address_street=Av.+de+la+Pelouse%2C+87648672+Mayet
+payment_date=18%3A32%3A20+Oct+06%2C+2012+PDT
+payment_status=Completed
+terminal_id=
+charset=windows-1252
+address_zip=75002
+first_name=Antonin
+receipt_reference_number=
+mc_fee=0.42
+address_country_code=FR
+address_name=Antonin+Lenfant
+custom=1
+payer_status=verified
+business=seller_1349533331_biz%40gmail.com
+address_country=France
+address_city=Paris
+quantity=1
+payer_email=buyer_1349533290_per%40gmail.com
+txn_id=2F7375307L163040H
+payment_type=instant
+last_name=Lenfant
+address_state=Alsace
+receiver_email=seller_1349533331_biz%40gmail.com
+store_id=
+payment_fee=
+receiver_id=PZ4V53QTVFCJA
+pos_transaction_type=
+txn_type=web_accept
+item_name=Account+funding
+num_offers=0
+mc_currency=EUR
+item_number=
+residence_country=FR
+handling_amount=0.00
+transaction_subject=1
+payment_gross=
+shipping=0.00
+
+--------------------------------------------------------------------------------
+r                        member/fund
+page                     3
+provider                 PayPal
+tx                       2F7375307L163040H
+st                       Completed
+amt                      5.00
+cc                       EUR
+cm                       1
+item_number              
+
+
+
+VALID (custom=) --------------------------------------------------------------------------------
+[10/07/2012 3:33 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:33:23 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=k6ZR4wh1ScfDv9CrlK0EAtAhPoB6ENNOr8fgIyoei_iKMcz_6D6ipB033uWSfOE_0Y-95xUiLAD3nT9dHXxCy5-nq8B8WYLMviviPl7xF-vpeeC04jnx7nv_RRP4zuq3hc4Bcm%7cSkmnS4WhWO7Jyvg3OCDEUd14LCBhSgQMnhvvQYFvqIjQh401JfRprumCWMitBSE3yyNuZW%7c0D0pCunXTRgrbx2vIrThGDAX6U2uzxYe0dh4Afi6Lp9276Ussh07SRWo2axTg6JmMEtha0%7c1349573604; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: -1ILhdyICORs4hS4xTUr41S8iP0=H7vK1H7e8KTQIrI_-9uQIZiUm_gRW7sm4AdVWxbshdoCtZlcDH8j4TwWGrqxZctQF-NPNGHuur0vaRei; expires=Sat, 02-Oct-2032 01:33:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:33:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-synch; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:33:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573603735019; path=/; expires=Tue, 30-Sep-42 01:33:23 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+SUCCESS
+mc_gross=5.00
+protection_eligibility=Ineligible
+address_status=unconfirmed
+payer_id=3QNUYJXQWQ2XS
+tax=0.00
+address_street=Av.+de+la+Pelouse%2C+87648672+Mayet
+payment_date=18%3A32%3A20+Oct+06%2C+2012+PDT
+payment_status=Completed
+terminal_id=
+charset=windows-1252
+address_zip=75002
+first_name=Antonin
+receipt_reference_number=
+mc_fee=0.42
+address_country_code=FR
+address_name=Antonin+Lenfant
+custom=1
+payer_status=verified
+business=seller_1349533331_biz%40gmail.com
+address_country=France
+address_city=Paris
+quantity=1
+payer_email=buyer_1349533290_per%40gmail.com
+txn_id=2F7375307L163040H
+payment_type=instant
+last_name=Lenfant
+address_state=Alsace
+receiver_email=seller_1349533331_biz%40gmail.com
+store_id=
+payment_fee=
+receiver_id=PZ4V53QTVFCJA
+pos_transaction_type=
+txn_type=web_accept
+item_name=Account+funding
+num_offers=0
+mc_currency=EUR
+item_number=
+residence_country=FR
+handling_amount=0.00
+transaction_subject=1
+payment_gross=
+shipping=0.00
+
+--------------------------------------------------------------------------------
+r                        member/fund
+page                     3
+provider                 PayPal
+tx                       2F7375307L163040H
+st                       Completed
+amt                      5.00
+cc                       EUR
+cm                       1
+item_number              
+
+
+
+INVALID --------------------------------------------------------------------------------
+[10/07/2012 3:33 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:33:44 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=EY5_QNDFGLK5VfAbaTcROCTc0-1z3jErls9LPq9LdLCiG_2WiRM0J8Zdg2u3pzCTJglmIm8YtF2GoVZWaE97tIL-ooEcoQBVB9W2tyz2vxBhA-L1IBHAqTYgK6nrkaUCrf506W%7ceRRdkhoARn3GRCKn57d-YLkBfJ0UrPSXCIjcBjEPCWoaayGQ_DoNFxFUK2zLQO9s75P-km%7c8xsWoK77fY9an6qHzPpcqCUy5cmzjr6yGVuH_qgik_ZBVi1Z1CSqTVicRh8UTlQkLoIJvW%7c1349573625; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: -1ILhdyICORs4hS4xTUr41S8iP0=SMGRI3q4vAzbBtZwQJAKaPa2VrW0lMwBhNMuCcHgVYXWNvjyWxhFrLvhEfo_HVjR5zp2hCllhR2mfAZY; expires=Sat, 02-Oct-2032 01:33:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:33:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-synch; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:33:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573624825761; path=/; expires=Tue, 30-Sep-42 01:33:44 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+FAIL
+Error: 4003
+--------------------------------------------------------------------------------
+r                        member/fund
+page                     3
+provider                 PayPal
+tx                       2F7375307L163040H
+st                       Completed
+amt                      5.00
+cc                       EUR
+cm                       1
+item_number              
+
+
+
+VALID (custom=) --------------------------------------------------------------------------------
+[10/07/2012 3:34 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:34:34 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=OQ9xuyd_rWPMIxdLVnV8DG6SUznwp42d1lTkfJewr8vBBcW_Je7bxf3GXEMJtWIQ3sb7ZMSYDqBP3nfBrY1t4zPb6kfbnhQekg6np53XQ5edmxMsSB3gW1eyD2C1Ce-EtOz0ym%7c8AJ40arZAGa606su8YUgt_DLPqOKzqFTbFyNwFr1Ogpw3I2RonZPIQGj2rAIrMo3r7nj_G%7c4HG4xM_6BRFiA8sf_HUZ6B7A8oD78jNOiTjVM1XGxpVItNsy6C6B102f2Q3zzvKBeiy-70%7c1349573676; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: -1ILhdyICORs4hS4xTUr41S8iP0=mE6tcoMPaF0CJiq4EVg5L_9V380PZhs-EkDz64iyFRjL9vF3_mKuKx8Q8UeOVfTfMvFynwp7LB1_w1jT; expires=Sat, 02-Oct-2032 01:34:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:34:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-synch; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:34:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573674943289; path=/; expires=Tue, 30-Sep-42 01:34:34 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+SUCCESS
+mc_gross=5.00
+protection_eligibility=Ineligible
+address_status=unconfirmed
+payer_id=3QNUYJXQWQ2XS
+tax=0.00
+address_street=Av.+de+la+Pelouse%2C+87648672+Mayet
+payment_date=18%3A34%3A25+Oct+06%2C+2012+PDT
+payment_status=Completed
+terminal_id=
+charset=windows-1252
+address_zip=75002
+first_name=Antonin
+receipt_reference_number=
+mc_fee=0.42
+address_country_code=FR
+address_name=Antonin+Lenfant
+custom=1
+payer_status=verified
+business=seller_1349533331_biz%40gmail.com
+address_country=France
+address_city=Paris
+quantity=1
+payer_email=buyer_1349533290_per%40gmail.com
+txn_id=1CS94033GS2166048
+payment_type=instant
+last_name=Lenfant
+address_state=Alsace
+receiver_email=seller_1349533331_biz%40gmail.com
+store_id=
+payment_fee=
+receiver_id=PZ4V53QTVFCJA
+pos_transaction_type=
+txn_type=web_accept
+item_name=Account+funding
+num_offers=0
+mc_currency=EUR
+item_number=
+residence_country=FR
+handling_amount=0.00
+transaction_subject=1
+payment_gross=
+shipping=0.00
+
+--------------------------------------------------------------------------------
+r                        member/fund
+page                     3
+provider                 PayPal
+tx                       1CS94033GS2166048
+st                       Completed
+amt                      5.00
+cc                       EUR
+cm                       1
+item_number              
+
+
+
+VALID (custom=) --------------------------------------------------------------------------------
+[10/07/2012 3:34 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:34:43 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=jLfXCvrJhS36_ofs43HNrwZtMb2Seq47JUldaijpao9CK78mH4G6tkr7gX5xp9u7szxB_bL4Yrp_RBOsUbuuEvWWpTnb6soDq4dfLRjsU0opR3iu0Be7dh-jd_jgGfKp73B_7W%7cTo1vHuPelK0FNt1QpbiOuFflhaqx8Ugh7E9ycaV2FFiWG59naQ7Fz2_ltRbEA4T10mWoiG%7cfk98kymdYPRqcn9_lFcNAV317WmLaHoEMZudntvxDjP7AOoaf76ib6b6vZzajQwC6fIb30%7c1349573684; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: -1ILhdyICORs4hS4xTUr41S8iP0=QGum5TUsXPaRR-jrh1jyiaGRvjmVIaUvUC6TlQ88wuNQDeWbkUC3iUABuIDuQ0aaXb5c9DtRx92Lc0OP; expires=Sat, 02-Oct-2032 01:34:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:34:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-synch; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:34:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573683788396; path=/; expires=Tue, 30-Sep-42 01:34:43 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+SUCCESS
+mc_gross=5.00
+protection_eligibility=Ineligible
+address_status=unconfirmed
+payer_id=3QNUYJXQWQ2XS
+tax=0.00
+address_street=Av.+de+la+Pelouse%2C+87648672+Mayet
+payment_date=18%3A34%3A25+Oct+06%2C+2012+PDT
+payment_status=Completed
+terminal_id=
+charset=windows-1252
+address_zip=75002
+first_name=Antonin
+receipt_reference_number=
+mc_fee=0.42
+address_country_code=FR
+address_name=Antonin+Lenfant
+custom=1
+payer_status=verified
+business=seller_1349533331_biz%40gmail.com
+address_country=France
+address_city=Paris
+quantity=1
+payer_email=buyer_1349533290_per%40gmail.com
+txn_id=1CS94033GS2166048
+payment_type=instant
+last_name=Lenfant
+address_state=Alsace
+receiver_email=seller_1349533331_biz%40gmail.com
+store_id=
+payment_fee=
+receiver_id=PZ4V53QTVFCJA
+pos_transaction_type=
+txn_type=web_accept
+item_name=Account+funding
+num_offers=0
+mc_currency=EUR
+item_number=
+residence_country=FR
+handling_amount=0.00
+transaction_subject=1
+payment_gross=
+shipping=0.00
+
+--------------------------------------------------------------------------------
+r                        member/fund
+page                     3
+provider                 PayPal
+tx                       1CS94033GS2166048
+st                       Completed
+amt                      5.00
+cc                       EUR
+cm                       1
+item_number              
+
+

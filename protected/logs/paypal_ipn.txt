@@ -1,0 +1,310 @@
+
+VALID (custom=1) --------------------------------------------------------------------------------
+[10/07/2012 3:08 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:09:02 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=c4Ibbwa2gKxs3UNetIEMySGCCQgDzOfgLcK6dh5-bjb1E7uDzaBwowC7Wj8je437QK8xzHxvTiENktvf0t0F8bdrfNgvMRczM_5TKtPrGRYAGCI02lPnYWh_MHJZayiiA4fy_m%7czAxf78NYwJksqUNBqZM0P8BTeUuKLny-0HikQmN9CgSeOMzaSB2hM-g0KjG2TPSHWIYDHm%7cUIDILmxDGLUgTh2bFvHow6OMfRsB7SrMotLzLYGzkB0ZJqBooYPN8-lfYjrgEsBE4Y5ULm%7c1349572143; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:09:03 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:09:03 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349572142875808; path=/; expires=Tue, 30-Sep-42 01:09:02 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+VERIFIED
+--------------------------------------------------------------------------------
+mc_gross                 5.00
+protection_eligibility   Ineligible
+address_status           unconfirmed
+payer_id                 3QNUYJXQWQ2XS
+tax                      0.00
+address_street           Av. de la Pelouse, 87648672 Mayet
+payment_date             18:08:55 Oct 06, 2012 PDT
+payment_status           Completed
+charset                  windows-1252
+address_zip              75002
+first_name               Antonin
+mc_fee                   0.42
+address_country_code     FR
+address_name             Antonin Lenfant
+notify_version           3.7
+custom                   1
+payer_status             verified
+business                 seller_1349533331_biz@gmail.com
+address_country          France
+address_city             Paris
+quantity                 1
+verify_sign              AFcWxV21C7fd0v3bYYYRCpSSRl31AHZCWBcyoBSocAl3WawgcPC4fCBh
+payer_email              buyer_1349533290_per@gmail.com
+txn_id                   29E653748K359934A
+payment_type             instant
+last_name                Lenfant
+address_state            Alsace
+receiver_email           seller_1349533331_biz@gmail.com
+payment_fee              
+receiver_id              PZ4V53QTVFCJA
+txn_type                 web_accept
+item_name                Account funding
+mc_currency              EUR
+item_number              
+residence_country        FR
+test_ipn                 1
+handling_amount          0.00
+transaction_subject      1
+payment_gross            
+shipping                 0.00
+ipn_track_id             8bfbc786a0f49
+
+
+
+VALID (custom=1) --------------------------------------------------------------------------------
+[10/07/2012 3:30 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:30:41 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=xJnH5XzItp_byXkiKuYdqfdRk3MW-5Tu-C-2lxjj49DJabC1V0_pveefKslMEiVseGinJ8TyjtRg0PgECcpzLgdf0sankLkDmPDYu5TYvesR43KTbuTJMDt6c_mywbbg2kKy0W%7ckIpNoFwdYpJ0R4VPCj5nRKIZQWi6dGHvL4ZHeQjbsd-sGN4X-OIgyTWfKLaeL20-XzlPIW%7cCWIs-u_iJJgVTBhDyDPtMyCztJEGcfiW6jaTCzMqc6bQY9OraMlPB9_DI3rQordF5b_FmW%7c1349573441; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:30:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:30:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573441447552; path=/; expires=Tue, 30-Sep-42 01:30:41 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+VERIFIED
+--------------------------------------------------------------------------------
+mc_gross                 5.00
+protection_eligibility   Ineligible
+address_status           unconfirmed
+payer_id                 3QNUYJXQWQ2XS
+tax                      0.00
+address_street           Av. de la Pelouse, 87648672 Mayet
+payment_date             18:30:36 Oct 06, 2012 PDT
+payment_status           Completed
+charset                  windows-1252
+address_zip              75002
+first_name               Antonin
+mc_fee                   0.42
+address_country_code     FR
+address_name             Antonin Lenfant
+notify_version           3.7
+custom                   1
+payer_status             verified
+business                 seller_1349533331_biz@gmail.com
+address_country          France
+address_city             Paris
+quantity                 1
+verify_sign              AFcWxV21C7fd0v3bYYYRCpSSRl31AgPi0wJJ2PVJifQnULMZ5SYhkPRA
+payer_email              buyer_1349533290_per@gmail.com
+txn_id                   34518176TB167615G
+payment_type             instant
+last_name                Lenfant
+address_state            Alsace
+receiver_email           seller_1349533331_biz@gmail.com
+payment_fee              
+receiver_id              PZ4V53QTVFCJA
+txn_type                 web_accept
+item_name                Account funding
+mc_currency              EUR
+item_number              
+residence_country        FR
+test_ipn                 1
+handling_amount          0.00
+transaction_subject      1
+payment_gross            
+shipping                 0.00
+ipn_track_id             7d3445f7311eb
+
+
+
+VALID (custom=1) --------------------------------------------------------------------------------
+[10/07/2012 3:32 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:32:28 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=oIFah-GsZp8IftnM8JQDfOk0J5M7y4o0sjlbuVMlxDSq91kMRs3npqnbxxOgZxWFLC3xdyXdcn7mUVdr41xtwsUCr-LuGFRPA63Kv-G9VCEXbx3gLm5yBk8UkWUoAy2Te70hC0%7czDBkxSoe_rFrdOt_kT6XUAdG5I_2LOTg7h1ByrDkXLqNPwXQWAVwKkpAYg897YKI8C1kFm%7cyiXJpzGp4VVifOD-p37vrD_heT5spi4CPfFnreo1gpnSXtGTkzGLhkJpUi4-_DhgVr8l2m%7c1349573548; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:32:28 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:32:28 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573548264571; path=/; expires=Tue, 30-Sep-42 01:32:28 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+VERIFIED
+--------------------------------------------------------------------------------
+mc_gross                 5.00
+protection_eligibility   Ineligible
+address_status           unconfirmed
+payer_id                 3QNUYJXQWQ2XS
+tax                      0.00
+address_street           Av. de la Pelouse, 87648672 Mayet
+payment_date             18:32:20 Oct 06, 2012 PDT
+payment_status           Completed
+charset                  windows-1252
+address_zip              75002
+first_name               Antonin
+mc_fee                   0.42
+address_country_code     FR
+address_name             Antonin Lenfant
+notify_version           3.7
+custom                   1
+payer_status             verified
+business                 seller_1349533331_biz@gmail.com
+address_country          France
+address_city             Paris
+quantity                 1
+verify_sign              AI3OghnpPDbuFkRcSbCjucwap6XQAzDfosqGnpZfMZVom6cXs5r03iFL
+payer_email              buyer_1349533290_per@gmail.com
+txn_id                   2F7375307L163040H
+payment_type             instant
+last_name                Lenfant
+address_state            Alsace
+receiver_email           seller_1349533331_biz@gmail.com
+payment_fee              
+receiver_id              PZ4V53QTVFCJA
+txn_type                 web_accept
+item_name                Account funding
+mc_currency              EUR
+item_number              
+residence_country        FR
+test_ipn                 1
+handling_amount          0.00
+transaction_subject      1
+payment_gross            
+shipping                 0.00
+ipn_track_id             9d1d088d7e2c
+
+
+
+VALID (custom=1) --------------------------------------------------------------------------------
+[10/07/2012 3:34 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:34:29 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=wNQvKk-K1v2M42Wz2_ACObgZAdax-faacKvmmlfnMiUMqETDCv6BJEkuTZtvCgM-GFmuInkG5MK9RItSTrFg2KK5S2ON6M1kJBpN9pGeW7ADX-CUP1Wgo7Tysq0qbxnaOmbMKG%7cwI2s6yn2aF3LYxqm9bh5D8aAR0YN9O0ascSq823reMUfmLYYcQNv3ILSwxT18pL2eDxNm0%7cpz_oODIzBxjHx0WALAOb5q6B6Jh5R0YqrZrTGObFnA-aqt7p_zETNqQBIHKbikpVsEZvZ0%7c1349573670; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:34:30 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:34:30 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573669619349; path=/; expires=Tue, 30-Sep-42 01:34:29 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+VERIFIED
+--------------------------------------------------------------------------------
+mc_gross                 5.00
+protection_eligibility   Ineligible
+address_status           unconfirmed
+payer_id                 3QNUYJXQWQ2XS
+tax                      0.00
+address_street           Av. de la Pelouse, 87648672 Mayet
+payment_date             18:34:25 Oct 06, 2012 PDT
+payment_status           Completed
+charset                  windows-1252
+address_zip              75002
+first_name               Antonin
+mc_fee                   0.42
+address_country_code     FR
+address_name             Antonin Lenfant
+notify_version           3.7
+custom                   1
+payer_status             verified
+business                 seller_1349533331_biz@gmail.com
+address_country          France
+address_city             Paris
+quantity                 1
+verify_sign              A4jazDWhCsDv6.m4axySmFQUjEERAxApC1.F6FT0oxOcqlVq1Us3HVeh
+payer_email              buyer_1349533290_per@gmail.com
+txn_id                   1CS94033GS2166048
+payment_type             instant
+last_name                Lenfant
+address_state            Alsace
+receiver_email           seller_1349533331_biz@gmail.com
+payment_fee              
+receiver_id              PZ4V53QTVFCJA
+txn_type                 web_accept
+item_name                Account funding
+mc_currency              EUR
+item_number              
+residence_country        FR
+test_ipn                 1
+handling_amount          0.00
+transaction_subject      1
+payment_gross            
+shipping                 0.00
+ipn_track_id             8aea5edb3bc17
+
+
+
+VALID (custom=1) --------------------------------------------------------------------------------
+[10/07/2012 3:34 AM] - https://www.sandbox.paypal.com/cgi-bin/webscr (curl)
+--------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Sun, 07 Oct 2012 01:34:45 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=wGwQy0YTRL5NEk61RYEa3UfACF-zL2_QnahUMdg3iD_PM02c-TdPi0ANr9WVNkl0lb0ftF10pgaqJRLyrvJ0STeSUZvxZnFwAWBJUXW0GCeoWRy0RHPfQ1urzWOo_rtKRx05fG%7cjjeFIaUADx9F5r_SpN4BiwkFBlj_UCHgc9TEy0vQ3lbpvtUZprxVhK4NzL30mPHF-WF5h0%7cfZLl-YCR-ocM1QlCCxwXjF0XTMvBBMtjeu_Xrt5ThdyQP-alJZTh88rOKHBQ1toBc4Yq-G%7c1349573686; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 05-Oct-2022 01:34:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-Oct-2032 01:34:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349573685849618; path=/; expires=Tue, 30-Sep-42 01:34:45 GMT
+X-Cnection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+VERIFIED
+--------------------------------------------------------------------------------
+mc_gross                 5.00
+protection_eligibility   Ineligible
+address_status           unconfirmed
+payer_id                 3QNUYJXQWQ2XS
+tax                      0.00
+address_street           Av. de la Pelouse, 87648672 Mayet
+payment_date             18:34:25 Oct 06, 2012 PDT
+payment_status           Completed
+charset                  windows-1252
+address_zip              75002
+first_name               Antonin
+mc_fee                   0.42
+address_country_code     FR
+address_name             Antonin Lenfant
+notify_version           3.7
+custom                   1
+payer_status             verified
+business                 seller_1349533331_biz@gmail.com
+address_country          France
+address_city             Paris
+quantity                 1
+verify_sign              A4jazDWhCsDv6.m4axySmFQUjEERAxApC1.F6FT0oxOcqlVq1Us3HVeh
+payer_email              buyer_1349533290_per@gmail.com
+txn_id                   1CS94033GS2166048
+payment_type             instant
+last_name                Lenfant
+address_state            Alsace
+receiver_email           seller_1349533331_biz@gmail.com
+payment_fee              
+receiver_id              PZ4V53QTVFCJA
+txn_type                 web_accept
+item_name                Account funding
+mc_currency              EUR
+item_number              
+residence_country        FR
+test_ipn                 1
+handling_amount          0.00
+transaction_subject      1
+payment_gross            
+shipping                 0.00
+ipn_track_id             8aea5edb3bc17
+
+

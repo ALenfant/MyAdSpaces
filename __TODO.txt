@@ -1,0 +1,46 @@
+ASAP:
+=====
+General:
+--------
+- standardize : or {} for transalations
+- Currency configurable
+- Buy ad here under banners
+
+Clients:
+--------
+- Add BitPay/Coinbase for bitcoin support
+- Keep uploaded files when previewing (using sessions+custom validators in AdType?)
+
+Admin:
+------
+- Edit users from admin
+- See and disable campaign(runs)
+- Create promocodes
+- Add possibility to create a campaign from the admin and use it as default campaign when there's no ads to display on an ad space (instead of default code)
+- Details of revenue (cash funded, cash spent/campaign /adspace /website)
+
+Next version:
+=============
+- Show prices on adpsaces list
+- Same website/adspace selection for campaign/create and /run
+- Store selected adspace when campaign created and offer it as a default choice (in a div at the top with green bg) when using campaign/run to avoid confusion
+- Better design for other pages of the panel
+- Consistent breadcrumbs everywhere
+
+Longer term:
+============
+- Auto repeat a campaign when expired until no credits?
+- Free tokens depending on paymentprovider
+
+For each update:
+================
+- Remove all caches if db schema chg&
+
+
+To check:
+=========
+-Implement number_format with round_up !
+-Unique column(campaignrun, hour) in stats_views and clicks
+-INSERT...ON DUPLICATE KEY UPDATE
+-???
+-PROFIT!
